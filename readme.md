@@ -1,7 +1,7 @@
-#Welcome to the "Git for Begineers" My Project!
+# Welcome to the "Git for Begineers" My Project!
 
 Author: Arnav Majithia
--LinkedIn: https://www.linkedin.com/in/arnav-majithia/
--Instagram: https://www.instagram.com/arnavmajithia/
--GitHub: https://github.com/ArnavBuddy
--Twitter: https://x.com/MajithiaAr82089
+- LinkedIn: https://www.linkedin.com/in/arnav-majithia/
+- Instagram: https://www.instagram.com/arnavmajithia/
+- GitHub: https://github.com/ArnavBuddy
+- Twitter: https://x.com/MajithiaAr82089
